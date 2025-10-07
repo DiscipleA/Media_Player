@@ -1,5 +1,5 @@
 /**
-* Interface defining the behavior of a MediaPlayer
+*
 *
 *@author Dmitriy Chernichenko
 *@version IT212 HW_Week1
@@ -7,10 +7,10 @@
 
 public interface MediaPlayer {
 
-    void play();
+    public void play();
 
-    void pause();
+    public void pause();
 
-    void stop();
+    public void stop();
     
 }
