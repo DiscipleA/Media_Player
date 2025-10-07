@@ -25,18 +25,25 @@ java Main.java
 ```
 - Enter player of your chose from the menu.
 . 
+
 📌 Example Output
 
-Shape: Circle Area: 78.54 Perimeter: 31.42
+Choose what media player you want to test below?
 
-hoose what media player you want to test below?
 [1] AudioPlayer
+
 [2] VideoPlayer
+
 [3] StreamingPlayer
-Type your choice (1, 2, or 3): 
+
+Type your choice (1, 2, or 3):
+
 2
+
 VideoPlayer PLAYING song titled: Mission Impossible
+
 VideoPlayer PAUSED song titled: Mission Impossible
+
 VideoPlayer STOPPED song titled: Mission Impossible
 
 📹 Demo
